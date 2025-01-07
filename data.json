@@ -8,14 +8,18 @@
                     "img": "hil.webp",
                     "name": "Hil",
                     "about": "Üyüdülmüş 100 qr",
-                    "price": "12"
+                    "price": "12",
+                    "popularity": false,
+                    "endirim": true
                 },
                 {
                     "id": 1,
                     "img": "hilsade.png",
                     "name": "Hil",
                     "about": "100 qr",
-                    "price": "10"
+                    "price": "10",
+                    "popularity": false,
+                    "endirim": false
                 },
                 {
                     "id": 2,
@@ -23,14 +27,17 @@
                     "name": "Mixək",
                     "about": "Üyüdülmüş 100qr",
                     "price": "4",
-                    "popularity": true
+                    "popularity": true,
+                    "endirim": false
                 },
                 {
                     "id": 3,
                     "img": "mixeksade.webp",
                     "name": "Mixək",
                     "about": "100qr",
-                    "price": "3,80"
+                    "price": "3,80",
+                    "popularity": false,
+                    "endirim": false
                 },
                 {
                     "id": 4,
@@ -38,28 +45,35 @@
                     "name": "Qara istiot",
                     "about": "Yumru 100 qr",
                     "price": "2",
-                    "popularity": true
+                    "popularity": true,
+                    "endirim": true
                 },
                 {
                     "id": 5,
                     "img": "sarimsaqtozu.webp",
                     "name": "Sarımsaq tozu",
                     "about": "100 qr",
-                    "price": "1.20"
+                    "price": "1.20",
+                    "popularity": false,
+                    "endirim": false
                 },
                 {
                     "id": 6,
                     "img": "zencefiltozu.webp",
                     "name": "Zəncəfil",
                     "about": "Üyüdülmüş 100 qr",
-                    "price": "2.60"
+                    "price": "2.60",
+                    "popularity": false,
+                    "endirim": false
                 },
                 {
                     "id": 7,
                     "img": "zencefil.png",
                     "name": "Zəncəfil",
                     "about": "100 qr",
-                    "price": "2.40"
+                    "price": "2.40",
+                    "popularity": false,
+                    "endirim": true
                 }
             ]
         },
@@ -71,21 +85,27 @@
                     "img": "araxis.webp",
                     "name": "Araxis",
                     "about": "100 qr",
-                    "price": "1"
+                    "price": "1",
+                    "popularity": false,
+                    "endirim": false
                 },
                 {
                     "id": 9,
                     "img": "araxisqovrulmus.webp",
                     "name": "Araxis",
                     "about": "Qovrulmuş 100 qr",
-                    "price": "1.2"
+                    "price": "1.2",
+                    "popularity": false,
+                    "endirim": false
                 },
                 {
                     "id": 10,
                     "img": "badam.webp",
                     "name": "Badam",
                     "about": "100 qr",
-                    "price": "2"
+                    "price": "2",
+                    "popularity": false,
+                    "endirim": false
                 },
                 {
                     "id": 11,
@@ -93,35 +113,44 @@
                     "name": "Fındıq",
                     "about": "100 qr",
                     "price": "2.30",
-                    "popularity": true
+                    "popularity": true,
+                    "endirim": false
                 },
                 {
                     "id": 12,
                     "img": "findiqqovrulmus.webp",
                     "name": "Fındıq",
                     "about": "Qovrulmuş 100 qr",
-                    "price": "2.5"
+                    "price": "2.5",
+                    "popularity": false,
+                    "endirim": false
                 },
                 {
                     "id": 13,
                     "img": "kaju.webp",
                     "name": "Kaju",
                     "about": "100 qr",
-                    "price": "2.5"
+                    "price": "2.5",
+                    "popularity": false,
+                    "endirim": false
                 },
                 {
                     "id": 14,
                     "img": "noxud.webp",
                     "name": "Noxud",
                     "about": "100 qr",
-                    "price": "0.70"
+                    "price": "0.70",
+                    "popularity": false,
+                    "endirim": false
                 },
                 {
                     "id": 15,
                     "img": "popcorn.webp",
                     "name": "Partlamış qarğıdalı",
                     "about": "100 qr",
-                    "price": "1"
+                    "price": "1",
+                    "popularity": false,
+                    "endirim": false
                 },
                 {
                     "id": 16,
@@ -129,21 +158,26 @@
                     "name": "Qarışıq ləpə",
                     "about": "100qr",
                     "price": "2",
-                    "popularity": true
+                    "popularity": true,
+                    "endirim": false
                 },
                 {
                     "id": 17,
                     "img": "qoz.webp",
                     "name": "Qoz",
                     "about": "100 qr",
-                    "price": "2.50"
+                    "price": "2.50",
+                    "popularity": false,
+                    "endirim": false
                 },
                 {
                     "id": 18,
                     "img": "semicka.webp",
                     "name": "Semiçka ləpəsi",
                     "about": "100 qr",
-                    "price": "0.70"
+                    "price": "0.70",
+                    "popularity": false,
+                    "endirim": false
                 }
             ]
         },
@@ -155,14 +189,18 @@
                     "img": "alma.png",
                     "name": "Alma qurusu",
                     "about": "100qr",
-                    "price": "2"
+                    "price": "2",
+                    "popularity": false,
+                    "endirim": false
                 },
                 {
                     "id": 20,
                     "img": "Ananas.png",
                     "name": "Ananas qurusu",
                     "about": "100qr",
-                    "price": "2"
+                    "price": "2",
+                    "popularity": false,
+                    "endirim": false
                 },
                 {
                     "id": 21,
@@ -170,21 +208,26 @@
                     "name": "Əncir qurusu",
                     "about": "100qr",
                     "price": "2.50",
-                    "popularity": true
+                    "popularity": true,
+                    "endirim": false
                 },
                 {
                     "id": 22,
                     "img": "Kivi.jpg",
                     "name": "Kivi qurusu",
                     "about": "100qr",
-                    "price": "1.50"
+                    "price": "1.50",
+                    "popularity": false,
+                    "endirim": true
                 },
                 {
                     "id": 23,
                     "img": "Manqo.png",
                     "name": "Manqo qurusu",
                     "about": "100qr",
-                    "price": "1.80"
+                    "price": "1.80",
+                    "popularity": false,
+                    "endirim": false
                 },
                 {
                     "id": 24,
@@ -192,35 +235,44 @@
                     "name": "Qara kişmiş",
                     "about": "100qr",
                     "price": "2.50",
-                    "popularity": true
+                    "popularity": true,
+                    "endirim": false
                 },
                 {
                     "id": 25,
                     "img": "qaraQaysı.png",
                     "name": "Qara Qayısı",
                     "about": "100qr",
-                    "price": "3"
+                    "price": "3",
+                    "popularity": false,
+                    "endirim": false
                 },
                 {
                     "id": 26,
                     "img": "sariKismis.png",
                     "name": "Sarı kişmiş",
                     "about": "100qr",
-                    "price": "1"
+                    "price": "1",
+                    "popularity": false,
+                    "endirim": false
                 },
                 {
                     "id": 27,
                     "img": "sarıQaysı.png",
                     "name": "Sarı qayısı",
                     "about": "100qr",
-                    "price": "2.50"
+                    "price": "2.50",
+                    "popularity": false,
+                    "endirim": false
                 },
                 {
                     "id": 28,
                     "img": "Tut.webp",
                     "name": "Tut qurusu",
                     "about": "100qr",
-                    "price": "1"
+                    "price": "1",
+                    "popularity": false,
+                    "endirim": false
                 }
             ]
         },
@@ -232,21 +284,27 @@
                     "img": "keklikotu.webp",
                     "name": "Kəklikotu",
                     "about": "100qr",
-                    "price": "1"
+                    "price": "1",
+                    "popularity": false,
+                    "endirim": false
                 },
                 {
                     "id": 30,
                     "img": "lavanta.webp",
                     "name": "Lavanda",
                     "about": "100 qr",
-                    "price": "3"
+                    "price": "3",
+                    "popularity": false,
+                    "endirim": false
                 },
                 {
                     "id": 31,
                     "img": "nane.webp",
                     "name": "Nanə",
                     "about": "100 qr",
-                    "price": "0.90"
+                    "price": "0.90",
+                    "popularity": false,
+                    "endirim": true
                 },
                 {
                     "id": 32,
@@ -254,7 +312,8 @@
                     "name": "Qızılgül",
                     "about": "100 qr",
                     "price": "3",
-                    "popularity": true
+                    "popularity": true,
+                    "endirim": false
                 }
             ]
         },
@@ -266,7 +325,9 @@
                     "img": "kuncut.webp",
                     "name": "Küncüt yağı",
                     "about": "100 qr",
-                    "price": "1"
+                    "price": "1",
+                    "popularity": false,
+                    "endirim": false
                 },
                 {
                     "id": 34,
@@ -274,21 +335,26 @@
                     "name": "Zeytun yağı",
                     "about": "100 qr",
                     "price": "1",
-                    "popularity": true
+                    "popularity": true,
+                    "endirim": false
                 },
                 {
                     "id": 35,
                     "img": "badamyagi.webp",
                     "name": "Badam yağı",
                     "about": "100qr",
-                    "price": "1"
+                    "price": "1",
+                    "popularity": false,
+                    "endirim": false
                 },
                 {
                     "id": 36,
                     "img": "kokos.webp",
                     "name": "Kokos yağı",
                     "about": "100 qr",
-                    "price": "1"
+                    "price": "1",
+                    "popularity": false,
+                    "endirim": true
                 }
             ]
         },
@@ -300,42 +366,54 @@
                     "img": "damla.png",
                     "name": "Damla şokolad",
                     "about": "100 qr",
-                    "price": "1.50"
+                    "price": "1.50",
+                    "popularity": false,
+                    "endirim": false
                 },
                 {
                     "id": 38,
                     "img": "disk.png",
                     "name": "Disk şokolad",
                     "about": "100 qr",
-                    "price": "1.50"
+                    "price": "1.50",
+                    "popularity": false,
+                    "endirim": false
                 },
                 {
                     "id": 39,
                     "img": "vanil.png",
                     "name": "Vanil",
                     "about": "10qr",
-                    "price": "0.50"
+                    "price": "0.50",
+                    "popularity": false,
+                    "endirim": false
                 },
                 {
                     "id": 40,
                     "img": "qabartma.png",
                     "name": "Qabartma tozu",
                     "about": "100 qr",
-                    "price": "1.50"
+                    "price": "1.50",
+                    "popularity": false,
+                    "endirim": false
                 },
                 {
                     "id": 41,
                     "img": "qatisut.png",
                     "name": "Qatılaşdırılmış süd",
                     "about": "500 qr",
-                    "price": "3"
+                    "price": "3",
+                    "popularity": false,
+                    "endirim": true
                 },
                 {
                     "id": 42,
                     "img": "qatisud.png",
                     "name": "Qatılaşdırılmış süd bişmiş",
                     "about": "500 qr",
-                    "price": "3"
+                    "price": "3",
+                    "popularity": false,
+                    "endirim": false
                 },
                 {
                     "id": 43,
@@ -348,7 +426,9 @@
                     ],
                     "name": "Qida rəngləri",
                     "about": "50 qr",
-                    "price": "0.30"
+                    "price": "0.30",
+                    "popularity": false,
+                    "endirim": false
                 }
             ]
         }
