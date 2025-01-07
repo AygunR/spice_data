@@ -10,7 +10,7 @@
                     "about": "Üyüdülmüş 100 qr",
                     "price": "12",
                     "popularity": false,
-                    "endirim": true
+                    "endirim": 10
                 },
                 {
                     "id": 1,
@@ -19,7 +19,7 @@
                     "about": "100 qr",
                     "price": "10",
                     "popularity": false,
-                    "endirim": false
+                    "endirim": 0
                 },
                 {
                     "id": 2,
@@ -28,7 +28,7 @@
                     "about": "Üyüdülmüş 100qr",
                     "price": "4",
                     "popularity": true,
-                    "endirim": false
+                    "endirim": 5
                 },
                 {
                     "id": 3,
@@ -37,7 +37,7 @@
                     "about": "100qr",
                     "price": "3,80",
                     "popularity": false,
-                    "endirim": false
+                    "endirim": 5
                 },
                 {
                     "id": 4,
@@ -46,7 +46,7 @@
                     "about": "Yumru 100 qr",
                     "price": "2",
                     "popularity": true,
-                    "endirim": true
+                    "endirim": 10
                 },
                 {
                     "id": 5,
@@ -55,7 +55,7 @@
                     "about": "100 qr",
                     "price": "1.20",
                     "popularity": false,
-                    "endirim": false
+                    "endirim": 5
                 },
                 {
                     "id": 6,
@@ -64,7 +64,7 @@
                     "about": "Üyüdülmüş 100 qr",
                     "price": "2.60",
                     "popularity": false,
-                    "endirim": false
+                    "endirim": 0
                 },
                 {
                     "id": 7,
@@ -73,7 +73,7 @@
                     "about": "100 qr",
                     "price": "2.40",
                     "popularity": false,
-                    "endirim": true
+                    "endirim": 10
                 }
             ]
         },
@@ -87,7 +87,7 @@
                     "about": "100 qr",
                     "price": "1",
                     "popularity": false,
-                    "endirim": false
+                    "endirim": 5
                 },
                 {
                     "id": 9,
@@ -96,7 +96,7 @@
                     "about": "Qovrulmuş 100 qr",
                     "price": "1.2",
                     "popularity": false,
-                    "endirim": false
+                    "endirim": 0
                 },
                 {
                     "id": 10,
@@ -105,7 +105,7 @@
                     "about": "100 qr",
                     "price": "2",
                     "popularity": false,
-                    "endirim": false
+                    "endirim": 5
                 },
                 {
                     "id": 11,
@@ -114,7 +114,7 @@
                     "about": "100 qr",
                     "price": "2.30",
                     "popularity": true,
-                    "endirim": false
+                    "endirim": 5
                 },
                 {
                     "id": 12,
@@ -123,7 +123,7 @@
                     "about": "Qovrulmuş 100 qr",
                     "price": "2.5",
                     "popularity": false,
-                    "endirim": false
+                    "endirim": 5
                 },
                 {
                     "id": 13,
@@ -132,7 +132,7 @@
                     "about": "100 qr",
                     "price": "2.5",
                     "popularity": false,
-                    "endirim": false
+                    "endirim": 0
                 },
                 {
                     "id": 14,
@@ -141,7 +141,7 @@
                     "about": "100 qr",
                     "price": "0.70",
                     "popularity": false,
-                    "endirim": false
+                    "endirim": 5
                 },
                 {
                     "id": 15,
@@ -150,7 +150,7 @@
                     "about": "100 qr",
                     "price": "1",
                     "popularity": false,
-                    "endirim": false
+                    "endirim": 5
                 },
                 {
                     "id": 16,
@@ -159,7 +159,7 @@
                     "about": "100qr",
                     "price": "2",
                     "popularity": true,
-                    "endirim": false
+                    "endirim": 0
                 },
                 {
                     "id": 17,
@@ -168,7 +168,7 @@
                     "about": "100 qr",
                     "price": "2.50",
                     "popularity": false,
-                    "endirim": false
+                    "endirim": 1
                 },
                 {
                     "id": 18,
@@ -177,7 +177,7 @@
                     "about": "100 qr",
                     "price": "0.70",
                     "popularity": false,
-                    "endirim": false
+                    "endirim": 0
                 }
             ]
         },
@@ -191,7 +191,7 @@
                     "about": "100qr",
                     "price": "2",
                     "popularity": false,
-                    "endirim": false
+                    "endirim": 5
                 },
                 {
                     "id": 20,
@@ -200,7 +200,7 @@
                     "about": "100qr",
                     "price": "2",
                     "popularity": false,
-                    "endirim": false
+                    "endirim": 5
                 },
                 {
                     "id": 21,
@@ -209,7 +209,7 @@
                     "about": "100qr",
                     "price": "2.50",
                     "popularity": true,
-                    "endirim": false
+                    "endirim": 9
                 },
                 {
                     "id": 22,
@@ -218,7 +218,7 @@
                     "about": "100qr",
                     "price": "1.50",
                     "popularity": false,
-                    "endirim": true
+                    "endirim": 0
                 },
                 {
                     "id": 23,
@@ -227,7 +227,7 @@
                     "about": "100qr",
                     "price": "1.80",
                     "popularity": false,
-                    "endirim": false
+                    "endirim": 5
                 },
                 {
                     "id": 24,
@@ -236,7 +236,7 @@
                     "about": "100qr",
                     "price": "2.50",
                     "popularity": true,
-                    "endirim": false
+                    "endirim": 0
                 },
                 {
                     "id": 25,
@@ -245,7 +245,7 @@
                     "about": "100qr",
                     "price": "3",
                     "popularity": false,
-                    "endirim": false
+                    "endirim": 5
                 },
                 {
                     "id": 26,
@@ -254,7 +254,7 @@
                     "about": "100qr",
                     "price": "1",
                     "popularity": false,
-                    "endirim": false
+                    "endirim": 0
                 },
                 {
                     "id": 27,
@@ -263,7 +263,7 @@
                     "about": "100qr",
                     "price": "2.50",
                     "popularity": false,
-                    "endirim": false
+                    "endirim": 5
                 },
                 {
                     "id": 28,
@@ -272,7 +272,7 @@
                     "about": "100qr",
                     "price": "1",
                     "popularity": false,
-                    "endirim": false
+                    "endirim": 0
                 }
             ]
         },
@@ -286,7 +286,7 @@
                     "about": "100qr",
                     "price": "1",
                     "popularity": false,
-                    "endirim": false
+                    "endirim": 0
                 },
                 {
                     "id": 30,
@@ -295,7 +295,7 @@
                     "about": "100 qr",
                     "price": "3",
                     "popularity": false,
-                    "endirim": false
+                    "endirim": 0
                 },
                 {
                     "id": 31,
@@ -304,7 +304,7 @@
                     "about": "100 qr",
                     "price": "0.90",
                     "popularity": false,
-                    "endirim": true
+                    "endirim": 0
                 },
                 {
                     "id": 32,
@@ -313,7 +313,7 @@
                     "about": "100 qr",
                     "price": "3",
                     "popularity": true,
-                    "endirim": false
+                    "endirim": 0
                 }
             ]
         },
@@ -327,7 +327,7 @@
                     "about": "100 qr",
                     "price": "1",
                     "popularity": false,
-                    "endirim": false
+                    "endirim": 0
                 },
                 {
                     "id": 34,
@@ -336,7 +336,7 @@
                     "about": "100 qr",
                     "price": "1",
                     "popularity": true,
-                    "endirim": false
+                    "endirim": 5
                 },
                 {
                     "id": 35,
@@ -345,7 +345,7 @@
                     "about": "100qr",
                     "price": "1",
                     "popularity": false,
-                    "endirim": false
+                    "endirim": 0
                 },
                 {
                     "id": 36,
@@ -354,7 +354,7 @@
                     "about": "100 qr",
                     "price": "1",
                     "popularity": false,
-                    "endirim": true
+                    "endirim": 0
                 }
             ]
         },
@@ -368,7 +368,7 @@
                     "about": "100 qr",
                     "price": "1.50",
                     "popularity": false,
-                    "endirim": false
+                    "endirim": 5
                 },
                 {
                     "id": 38,
@@ -377,7 +377,7 @@
                     "about": "100 qr",
                     "price": "1.50",
                     "popularity": false,
-                    "endirim": false
+                    "endirim": 0
                 },
                 {
                     "id": 39,
@@ -386,7 +386,7 @@
                     "about": "10qr",
                     "price": "0.50",
                     "popularity": false,
-                    "endirim": false
+                    "endirim": 5
                 },
                 {
                     "id": 40,
@@ -395,7 +395,7 @@
                     "about": "100 qr",
                     "price": "1.50",
                     "popularity": false,
-                    "endirim": false
+                    "endirim": 0
                 },
                 {
                     "id": 41,
@@ -404,7 +404,7 @@
                     "about": "500 qr",
                     "price": "3",
                     "popularity": false,
-                    "endirim": true
+                    "endirim": 0
                 },
                 {
                     "id": 42,
@@ -413,7 +413,7 @@
                     "about": "500 qr",
                     "price": "3",
                     "popularity": false,
-                    "endirim": false
+                    "endirim": 0
                 },
                 {
                     "id": 43,
@@ -428,7 +428,7 @@
                     "about": "50 qr",
                     "price": "0.30",
                     "popularity": false,
-                    "endirim": false
+                    "endirim": 0
                 }
             ]
         }
