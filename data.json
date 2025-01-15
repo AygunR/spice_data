@@ -8,7 +8,7 @@
                     "img": "hil.webp",
                     "name": "Hil",
                     "about": "Üyüdülmüş 100 qr",
-                    "price": "12",
+                    "price": "12.00",
                     "popularity": false,
                     "endirim": 10
                 },
@@ -17,7 +17,7 @@
                     "img": "hilsade.png",
                     "name": "Hil",
                     "about": "100 qr",
-                    "price": "10",
+                    "price": "10.00",
                     "popularity": false,
                     "endirim": 0
                 },
@@ -26,7 +26,7 @@
                     "img": "mixek.webp",
                     "name": "Mixək",
                     "about": "Üyüdülmüş 100qr",
-                    "price": "4",
+                    "price": "4.00",
                     "popularity": true,
                     "endirim": 10
                 },
@@ -44,7 +44,7 @@
                     "img": "qaraistiot.webp",
                     "name": "Qara istiot",
                     "about": "Yumru 100 qr",
-                    "price": "2",
+                    "price": "2.00",
                     "popularity": true,
                     "endirim": 10
                 },
@@ -94,7 +94,7 @@
                     "img": "araxisqovrulmus.webp",
                     "name": "Araxis",
                     "about": "Qovrulmuş 100 qr",
-                    "price": "3",
+                    "price": "3.00",
                     "popularity": false,
                     "endirim": 0
                 },
@@ -103,7 +103,7 @@
                     "img": "badam.webp",
                     "name": "Badam",
                     "about": "100 qr",
-                    "price": "2",
+                    "price": "2.00",
                     "popularity": false,
                     "endirim": 0
                 },
@@ -121,7 +121,7 @@
                     "img": "findiqqovrulmus.webp",
                     "name": "Fındıq",
                     "about": "Qovrulmuş 100 qr",
-                    "price": "2.5",
+                    "price": "2.50",
                     "popularity": false,
                     "endirim": 0
                 },
@@ -130,7 +130,7 @@
                     "img": "kaju.webp",
                     "name": "Kaju",
                     "about": "100 qr",
-                    "price": "2.5",
+                    "price": "2.50",
                     "popularity": false,
                     "endirim": 0
                 },
@@ -148,7 +148,7 @@
                     "img": "popcorn.webp",
                     "name": "Partlamış qarğıdalı",
                     "about": "100 qr",
-                    "price": "1",
+                    "price": "1.00",
                     "popularity": false,
                     "endirim": 5
                 },
@@ -157,7 +157,7 @@
                     "img": "qarisiq.webp",
                     "name": "Qarışıq ləpə",
                     "about": "100qr",
-                    "price": "2",
+                    "price": "2.00",
                     "popularity": true,
                     "endirim": 0
                 },
@@ -189,7 +189,7 @@
                     "img": "alma.png",
                     "name": "Alma qurusu",
                     "about": "100qr",
-                    "price": "2",
+                    "price": "2.00",
                     "popularity": false,
                     "endirim": 10
                 },
@@ -198,7 +198,7 @@
                     "img": "Ananas.png",
                     "name": "Ananas qurusu",
                     "about": "100qr",
-                    "price": "4",
+                    "price": "4.00",
                     "popularity": false,
                     "endirim": 15
                 },
@@ -225,7 +225,7 @@
                     "img": "Manqo.png",
                     "name": "Manqo qurusu",
                     "about": "100qr",
-                    "price": "4",
+                    "price": "4.00",
                     "popularity": false,
                     "endirim": 5
                 },
@@ -243,7 +243,7 @@
                     "img": "qaraQaysı.png",
                     "name": "Qara Qayısı",
                     "about": "100qr",
-                    "price": "3",
+                    "price": "3.00",
                     "popularity": false,
                     "endirim": 5
                 },
@@ -270,7 +270,7 @@
                     "img": "Tut.webp",
                     "name": "Tut qurusu",
                     "about": "100qr",
-                    "price": "2",
+                    "price": "2.00",
                     "popularity": false,
                     "endirim": 0
                 }
@@ -284,7 +284,7 @@
                     "img": "keklikotu.webp",
                     "name": "Kəklikotu",
                     "about": "100qr",
-                    "price": "1",
+                    "price": "1.00",
                     "popularity": false,
                     "endirim": 0
                 },
@@ -293,7 +293,7 @@
                     "img": "lavanta.webp",
                     "name": "Lavanda",
                     "about": "100 qr",
-                    "price": "3",
+                    "price": "3.00",
                     "popularity": false,
                     "endirim": 0
                 },
@@ -311,7 +311,7 @@
                     "img": "qizilgul.webp",
                     "name": "Qızılgül",
                     "about": "100 qr",
-                    "price": "3",
+                    "price": "3.00",
                     "popularity": true,
                     "endirim": 0
                 }
@@ -325,7 +325,7 @@
                     "img": "kuncut.webp",
                     "name": "Küncüt yağı",
                     "about": "100 qr",
-                    "price": "1",
+                    "price": "1.00",
                     "popularity": false,
                     "endirim": 0
                 },
@@ -334,7 +334,7 @@
                     "img": "zeytun.webp",
                     "name": "Zeytun yağı",
                     "about": "100 qr",
-                    "price": "5",
+                    "price": "5.00",
                     "popularity": true,
                     "endirim": 10
                 },
@@ -343,7 +343,7 @@
                     "img": "badamyagi.webp",
                     "name": "Badam yağı",
                     "about": "100qr",
-                    "price": "3",
+                    "price": "3.00",
                     "popularity": false,
                     "endirim": 0
                 },
@@ -352,7 +352,7 @@
                     "img": "kokos.webp",
                     "name": "Kokos yağı",
                     "about": "100 qr",
-                    "price": "2",
+                    "price": "2.00",
                     "popularity": false,
                     "endirim": 0
                 }
@@ -375,7 +375,7 @@
                     "img": "disk.png",
                     "name": "Disk şokolad",
                     "about": "100 qr",
-                    "price": "3",
+                    "price": "3.00",
                     "popularity": false,
                     "endirim": 0
                 },
@@ -384,7 +384,7 @@
                     "img": "vanil.png",
                     "name": "Vanil",
                     "about": "10qr",
-                    "price": "1",
+                    "price": "1.00",
                     "popularity": false,
                     "endirim": 5
                 },
@@ -402,7 +402,7 @@
                     "img": "qatisut.png",
                     "name": "Qatılaşdırılmış süd",
                     "about": "500 qr",
-                    "price": "3",
+                    "price": "3.00",
                     "popularity": false,
                     "endirim": 0
                 },
@@ -426,7 +426,7 @@
                     ],
                     "name": "Qida rəngləri",
                     "about": "50 qr",
-                    "price": "1",
+                    "price": "1.00",
                     "popularity": false,
                     "endirim": 0
                 }
